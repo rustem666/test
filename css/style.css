@@ -1,0 +1,34 @@
+table{
+    width: 100%;
+}
+table td{
+    border: 1px black solid;
+    text-align: center;
+}
+#form-block, #result{
+	float:left;
+}
+#form-block{
+	width:15%;
+}
+#result{
+	width:70%;
+	margin-left:20px;
+}
+.name{
+	width:40%;
+	float:left;
+}
+#form-block select{
+	width:60%;
+}
+#form-block input{
+	width:55%;
+}
+.clear{
+	clear:both;
+	height:10px;
+}
+button{
+	float:right;
+}
